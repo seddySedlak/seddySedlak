@@ -6,9 +6,10 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [Weather dashboard](https://github.com/seddySedlak/Weather-dashboard)<br>
+<p align="left">
+  🔭 I’m currently working on [Weather dashboard](https://github.com/seddySedlak/Weather-dashboard)<br>
   🌱 I’m currently learning **React, Tailwind, C#**<br>
-  👨‍💻 Explore my portfolio of freelance projects and UI/UX designs at [https://www.sedlaktomas.me/](https://www.sedlaktomas.me/)
+  👨‍💻 Explore my portfolio of freelance projects and UI/UX designs at [sedlaktomas.me](https://www.sedlaktomas.me/)
 </p>
 
 ###
