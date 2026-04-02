@@ -44,5 +44,3 @@
 </div>
 
 ###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seddySedlak&layout=compact&v=1)](https://github.com/seddySedlak)
