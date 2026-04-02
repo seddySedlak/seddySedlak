@@ -45,3 +45,4 @@
 
 ###
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seddySedlak&layout=compact)](https://github.com/seddySedlak)
