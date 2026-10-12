@@ -7,7 +7,7 @@
 ###
 
 🎓 I’m currently studying **Software Engineering** at the **University of West Bohemia in Pilsen**<br>
-🌱 I’m currently learning **PHP**<br>
+🌱 I’m currently learning **PHP and C**<br>
 👨‍💻 Explore my portfolio of freelance projects and UI/UX designs at [sedlaktomas.me](https://www.sedlaktomas.me/)
 
 ###
