@@ -2,13 +2,12 @@
 
 ###
 
-<h4 align="left">A passionate frontend developer from Pilsen, Czechia.</h4>
+<h4 align="left">A passionate website developer from Pilsen, Czechia.</h4>
 
 ###
 
 🎓 I’m currently studying **Software Engineering** at the **University of West Bohemia in Pilsen**<br>
-🔭 I’m currently working on [kedarsamot](https://github.com/seddySedlak/kedarsamot) and on freelence project<br>
-🌱 I’m currently learning **TypeScript, React, Tailwind**<br>
+🌱 I’m currently learning **PHP**<br>
 👨‍💻 Explore my portfolio of freelance projects and UI/UX designs at [sedlaktomas.me](https://www.sedlaktomas.me/)
 
 ###
